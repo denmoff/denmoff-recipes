@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>Description</key>
-	<string>Downloads the latest version of Twine.</string>
+	<string>Downloads the latest version of Twine 2.</string>
 	<key>Identifier</key>
-	<string>com.github.denmoff.download.Twine</string>
+	<string>com.github.denmoff.download.Twine2</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
-		<string>Twine</string>
+		<string>Twine 2</string>
 	</dict>
 	<key>MinimumVersion</key>
 	<string>0.6.1</string>

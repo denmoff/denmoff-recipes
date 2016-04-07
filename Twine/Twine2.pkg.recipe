@@ -5,20 +5,20 @@
 	<key>Comment</key>
 	<string>Created with Recipe Robot v1.0.2 (https://github.com/homebysix/recipe-robot)</string>
 	<key>Description</key>
-	<string>Downloads the latest version of Twine and creates a package.</string>
+	<string>Downloads the latest version of Twine 2 and creates a package.</string>
 	<key>Identifier</key>
-	<string>com.github.denmoff.pkg.Twine</string>
+	<string>com.github.denmoff.pkg.Twine2</string>
 	<key>Input</key>
 	<dict>
 		<key>BUNDLE_ID</key>
 		<string>org.pythonmac.unspecified.Twine</string>
 		<key>NAME</key>
-		<string>Twine</string>
+		<string>Twine 2</string>
 	</dict>
 	<key>MinimumVersion</key>
 	<string>0.6.1</string>
 	<key>ParentRecipe</key>
-	<string>com.github.denmoff.download.Twine</string>
+	<string>com.github.denmoff.download.Twine2</string>
 	<key>Process</key>
 	<array>
 		<dict>
