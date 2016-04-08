@@ -13,7 +13,7 @@
 		<key>MUNKI_REPO_SUBDIR</key>
 		<string>apps/%NAME%</string>
 		<key>NAME</key>
-		<string>Twine 2</string>
+		<string>Twine</string>
 		<key>pkginfo</key>
 		<dict>
 			<key>catalogs</key>

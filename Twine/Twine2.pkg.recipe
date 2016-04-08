@@ -13,7 +13,7 @@
 		<key>BUNDLE_ID</key>
 		<string>org.pythonmac.unspecified.Twine</string>
 		<key>NAME</key>
-		<string>Twine 2</string>
+		<string>Twine</string>
 	</dict>
 	<key>MinimumVersion</key>
 	<string>0.6.1</string>
