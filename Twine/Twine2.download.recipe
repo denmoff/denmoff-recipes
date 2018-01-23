@@ -15,27 +15,18 @@
 	<string>0.6.1</string>
 	<key>Process</key>
         <array>
-        <dict>
+	<dict>
             <key>Processor</key>
-            <string>URLTextSearcher</string>
+            <string>GitHubReleasesInfoProvider</string>
             <key>Arguments</key>
             <dict>
-                <key>url</key>
-                <string>http://twinery.org</string>
-                <key>re_pattern</key>
-                <string>https://bitbucket.org/klembot/twinejs/downloads/twine_.*?_osx.zip</string>
-            </dict>
+                <key>github_repo</key>
+                <string>klembot/twinejs</string>
+        </dict>
         </dict>
         <dict>
         	<key>Processor</key>
         	<string>URLDownloader</string>
-        	<key>Arguments</key>
-        	<dict>
-        	   <key>url</key>
-        	   <string>%match%</string>
-        	   <key>filename</key>
-        	   <string>%NAME%.zip</string>
-        	</dict>
         </dict>
        <dict>
             <key>Processor</key>
