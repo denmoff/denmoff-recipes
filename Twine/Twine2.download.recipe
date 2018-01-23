@@ -20,13 +20,11 @@
             <string>GitHubReleasesInfoProvider</string>
             <key>Arguments</key>
             <dict>
-              <key>asset_regex</key>
-                <string>^twine_2.*?_osx.zip$</string>
-		<key>github_repo</key>
-                <string>klembot/twinejs</string>
-		<key>sort_by_highest_tag_names</key>
-		<true/>
-        </dict>
+               <key>asset_regex</key>
+               <string>^twine_2.*?_osx.zip$</string>
+               <key>github_repo</key>
+               <string>klembot/twinejs</string>
+            </dict>
         </dict>
         <dict>
         	<key>Processor</key>
